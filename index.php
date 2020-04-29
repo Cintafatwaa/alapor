@@ -49,8 +49,8 @@
                                     <ul id="navigation">
                                         <li><a href="#home">home</a></li>
                                         <li><a href="#alur">Alur</a></li>
-                                        <li><a href="login.html">Login</a></li>
-                                        <li><a href="register.html">Registrasi</a></li>
+                                        <li><a href="login.php">Login</a></li>
+                                        <li><a href="register.php">Registrasi</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -72,7 +72,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-xl-6 col-md-6">
                         <div class="illastrator_png">
-                            <img src="img/banner/edu_ilastration.png" alt="">
+                            <img src="assets/img/banner/edu_ilastration.png" alt="">
                         </div>
                     </div>
                     <div class="col-xl-6 col-md-6">
@@ -103,7 +103,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-6">
                     <div class="single_course text-center">
                         <div class="icon">
-                            <img src="img/paint-palette.svg" width="70" height="70">
+                            <img src="assets/img/paint-palette.svg" width="70" height="70">
                         </div>
                         <h3>1. Tulis Laporan</h3>
                         <p>
@@ -114,7 +114,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-6">
                     <div class="single_course text-center">
                         <div class="icon blue">
-                            <img src="img/vector.svg" width="70" height="70">
+                            <img src="assets/img/vector.svg" width="70" height="70">
                         </div>
                         <h3>2. Proses Verifikasi</h3>
                         <p>
@@ -125,7 +125,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-6">
                     <div class="single_course text-center">
                         <div class="icon">
-                            <img src="img/design-tool.svg" width="70" height="70">
+                            <img src="assets/img/design-tool.svg" width="70" height="70">
                         </div>
                         <h3>3. Tindak Lanjut</h3>
                         <p>
@@ -136,7 +136,7 @@
                 <div class="col-xl-3 col-md-6 col-lg-6">
                     <div class="single_course text-center">
                         <div class="icon gradient">
-                            <img src="img/asteroid.svg" width="70" height="70">
+                            <img src="assets/img/asteroid.svg" width="70" height="70">
                         </div>
                         <h3>4. Selesai</h3>
                         <p>
@@ -182,7 +182,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <h3><font color="blue">a</font>Lapor</h3>
+                                    <h3><font color="pink">a</font>Lapor</h3>
                                 </a>
                             </div>
                             <p>
@@ -215,7 +215,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
- &copy; Copyleft <font color="blue">a</font>Lapor <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+ &copy; Copyleft <font color="pink">a</font>Lapor <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
